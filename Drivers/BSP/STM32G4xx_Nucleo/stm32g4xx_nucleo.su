@@ -1,0 +1,15 @@
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:123:9:BSP_GetVersion	4	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:132:16:BSP_GetBoardName	4	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:141:16:BSP_GetBoardID	4	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:153:9:BSP_LED_Init	40	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:180:9:BSP_LED_DeInit	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:198:9:BSP_LED_On	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:212:9:BSP_LED_Off	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:226:9:BSP_LED_Toggle	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:240:9:BSP_LED_GetState	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:258:9:BSP_PB_Init	40	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:304:9:BSP_PB_DeInit	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:319:9:BSP_PB_GetState	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:329:6:BSP_PB_IRQHandler	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:339:13:BSP_PB_Callback	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:563:13:BUTTON_USER_EXTI_Callback	8	static
