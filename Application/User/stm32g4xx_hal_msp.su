@@ -1,0 +1,6 @@
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:67:6:HAL_MspInit	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:93:6:HAL_TIM_PWM_MspInit	24	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:118:6:HAL_TIM_Base_MspInit	24	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:151:6:HAL_TIM_MspPostInit	40	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:183:6:HAL_TIM_PWM_MspDeInit	16	static
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_hal_msp.c:215:6:HAL_TIM_Base_MspDeInit	16	static

@@ -1,0 +1,7 @@
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:74:6:NMI_Handler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:87:6:HardFault_Handler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:102:6:SVC_Handler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:115:6:PendSV_Handler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:128:6:SysTick_Handler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:149:6:TIM1_TRG_COM_TIM17_IRQHandler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Src/stm32g4xx_it.c:164:6:TIM3_IRQHandler	1

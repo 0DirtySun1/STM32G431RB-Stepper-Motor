@@ -1,0 +1,15 @@
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:123:9:BSP_GetVersion	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:132:16:BSP_GetBoardName	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:141:16:BSP_GetBoardID	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:153:9:BSP_LED_Init	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:180:9:BSP_LED_DeInit	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:198:9:BSP_LED_On	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:212:9:BSP_LED_Off	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:226:9:BSP_LED_Toggle	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:240:9:BSP_LED_GetState	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:258:9:BSP_PB_Init	2
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:304:9:BSP_PB_DeInit	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:319:9:BSP_PB_GetState	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:329:6:BSP_PB_IRQHandler	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:339:13:BSP_PB_Callback	1
+C:/Users/DannyBehr/Documents/Projekte/STM32CubeIDE/TIM_PWMOutput/Drivers/BSP/STM32G4xx_Nucleo/stm32g4xx_nucleo.c:563:13:BUTTON_USER_EXTI_Callback	1
